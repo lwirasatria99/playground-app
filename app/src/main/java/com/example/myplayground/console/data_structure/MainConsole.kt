@@ -1,6 +1,4 @@
-package com.example.myplayground
-
-import kotlin.math.min
+package com.example.myplayground.console.data_structure
 
 fun main() {
 
